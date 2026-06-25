@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AIお絵描きゲームのマスコット">
+  <rect x="82" y="96" width="348" height="300" rx="72" fill="#fffdf5" stroke="#142535" stroke-width="22"/>
+  <path d="M178 96 148 52M334 96l30-44" fill="none" stroke="#142535" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="196" cy="224" r="24" fill="#142535"/>
+  <circle cx="316" cy="224" r="24" fill="#142535"/>
+  <path d="M208 306c32 28 64 28 96 0" fill="none" stroke="#142535" stroke-width="22" stroke-linecap="round"/>
+  <path d="M112 366c-42 22-58 54-42 78 18 28 62 14 86-44" fill="none" stroke="#08a7a0" stroke-width="24" stroke-linecap="round"/>
+  <path d="M356 390l72 72" fill="none" stroke="#ff7a66" stroke-width="34" stroke-linecap="round"/>
+  <path d="M364 370l38-38 64 64-38 38z" fill="#ffd84d" stroke="#142535" stroke-width="18" stroke-linejoin="round"/>
+  <circle cx="104" cy="116" r="30" fill="#ffd84d" stroke="#142535" stroke-width="16"/>
+  <circle cx="426" cy="112" r="22" fill="#ff7a66" stroke="#142535" stroke-width="14"/>
+</svg>
